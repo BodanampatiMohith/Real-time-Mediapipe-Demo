@@ -99,11 +99,4 @@ Deploy as a mobile or web app for accessibility.
 
 📄 License
 
-This project is open-source. Feel free to use, modify, and improve.
-<img width="798" height="590" alt="image" src="https://github.com/user-attachments/assets/82f3ddd7-0fa6-4bc5-b572-be11e29d80b8" />
-<img width="792" height="596" alt="image" src="https://github.com/user-attachments/assets/998b363d-4f21-4d2b-9dfe-5449150ae9b7" />
-<img width="797" height="600" alt="image" src="https://github.com/user-attachments/assets/ed90ce83-8ab4-4650-b9ff-c274a43e8469" />
-<img width="800" height="594" alt="image" src="https://github.com/user-attachments/assets/a97342b8-2a3c-4efa-9d0d-c015d174732f" />
-
-
 
